@@ -9,6 +9,6 @@
   "license": "MIT",
   "dependencies": {
     "chai": "^3.5.0",
-    "semver": "^6.3.0"
+    "semver": "^7.5.2"
   }
 }
